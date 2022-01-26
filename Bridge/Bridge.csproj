@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="TODO_WithoutTheBridgePattern\" />
+    <Folder Include="BridgeTests\" />
+    <Folder Include="PlainCode\" />
   </ItemGroup>
 
 </Project>
